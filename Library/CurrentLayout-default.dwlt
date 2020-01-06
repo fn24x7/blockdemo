@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 1537
-    y: 51
-    width: 1278
-    height: 1388
+    x: -96.8
+    y: 96
+    width: 1521.6
+    height: 806.4
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 494}
+  m_MinSize: {x: 950, y: 522}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,9 +43,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1278
-    height: 1388
-  m_MinSize: {x: 950, y: 300}
+    width: 1522
+    height: 807
+  m_MinSize: {x: 950, y: 522}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -64,7 +64,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1278
+    width: 1522
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -88,12 +88,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1278
-    height: 1338
-  m_MinSize: {x: 583, y: 444}
-  m_MaxSize: {x: 12008, y: 8044}
+    width: 1522
+    height: 757
+  m_MinSize: {x: 709, y: 472}
+  m_MaxSize: {x: 18004, y: 14022}
   vertical: 0
-  controlID: 123
+  controlID: 115
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -110,8 +110,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 1368
-    width: 1278
+    y: 787
+    width: 1522
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -134,12 +134,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 924
-    height: 1338
-  m_MinSize: {x: 306, y: 444}
-  m_MaxSize: {x: 8006, y: 8044}
+    width: 1088
+    height: 757
+  m_MinSize: {x: 434, y: 472}
+  m_MaxSize: {x: 14004, y: 14022}
   vertical: 1
-  controlID: 34
+  controlID: 78
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,12 +155,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 924
+    x: 1088
     y: 0
-    width: 354
-    height: 1338
-  m_MinSize: {x: 277, y: 72}
-  m_MaxSize: {x: 4002, y: 4022}
+    width: 434
+    height: 757
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -187,10 +187,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 924
-    height: 861
-  m_MinSize: {x: 202, y: 222}
-  m_MaxSize: {x: 4002, y: 4022}
+    width: 1088
+    height: 485
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 21}
@@ -216,13 +216,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 861
-    width: 924
-    height: 477
-  m_MinSize: {x: 306, y: 222}
-  m_MaxSize: {x: 8006, y: 4022}
+    y: 485
+    width: 1088
+    height: 272
+  m_MinSize: {x: 434, y: 272}
+  m_MaxSize: {x: 14004, y: 10022}
   vertical: 0
-  controlID: 76
+  controlID: 79
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -240,10 +240,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 368
-    height: 477
-  m_MinSize: {x: 202, y: 222}
-  m_MaxSize: {x: 4002, y: 4022}
+    width: 431
+    height: 272
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -264,18 +264,18 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 368
+    x: 431
     y: 0
-    width: 556
-    height: 477
-  m_MinSize: {x: 104, y: 122}
-  m_MaxSize: {x: 4004, y: 4022}
-  m_ActualView: {fileID: 14}
+    width: 657
+    height: 272
+  m_MinSize: {x: 234, y: 272}
+  m_MaxSize: {x: 10004, y: 10022}
+  m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
   - {fileID: 14}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,10 +354,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1905
-    y: 942
-    width: 554
-    height: 458
+    x: 844.8
+    y: 569.60004
+    width: 414
+    height: 255
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &15
 MonoBehaviour:
@@ -416,8 +416,638 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   Collection:
     filter: 0
-    lastUpdateTime: Dec 27, 11:56
+    lastUpdateTime: Jan 6, 15:08
     listPackagesOffline:
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.0
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.1
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.2
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.3
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.4
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.5
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.6
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.7
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.8
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 1
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 1
     - Name: com.unity.2d.sprite
       DisplayName: 2D Sprite
       _Version: 1.0.0
@@ -10923,638 +11553,638 @@ MonoBehaviour:
           m_IsDefault: 0
         m_HideInEditor: 1
         m_DatePublishedTicks: 0
-      IsInstalled: 1
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.0
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.1
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.2
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.3
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.4
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.5
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.6
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.7
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.8
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 1
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 1
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
       IsInstalled: 1
     listPackages:
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.0
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.1
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.2
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.3
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.4
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.5
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.6
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.7
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 0
+    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+      DisplayName: Google Cloud Streaming Speech-to-Text
+      _Version: 0.1.8
+      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+        API to perform real-time, streaming transcription of microphone input.
+      Category: 
+      State: 0
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Oren Shoham
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 1
+      Info:
+        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_IsDirectDependency: 1
+        m_Version: 0.1.8
+        m_Source: 1
+        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
+        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
+        m_DisplayName: Google Cloud Streaming Speech-to-Text
+        m_Category: 
+        m_Type: 
+        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
+          API to perform real-time, streaming transcription of microphone input.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Compatible:
+          - 0.1.0
+          - 0.1.1
+          - 0.1.2
+          - 0.1.3
+          - 0.1.4
+          - 0.1.5
+          - 0.1.6
+          - 0.1.7
+          - 0.1.8
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - unity
+        m_Author:
+          m_Name: Oren Shoham
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: npm
+          m_Url: https://registry.npmjs.com
+          m_IsDefault: 0
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637041751568850000
+      IsInstalled: 1
     - Name: com.unity.2d.sprite
       DisplayName: 2D Sprite
       _Version: 1.0.0
@@ -22060,636 +22690,6 @@ MonoBehaviour:
           m_IsDefault: 0
         m_HideInEditor: 1
         m_DatePublishedTicks: 0
-      IsInstalled: 1
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.0
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.1
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.2
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.3
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.4
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.5
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.6
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.7
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
-      IsInstalled: 0
-    - Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-      DisplayName: Google Cloud Streaming Speech-to-Text
-      _Version: 0.1.8
-      Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-        API to perform real-time, streaming transcription of microphone input.
-      Category: 
-      State: 0
-      IsLatest: 1
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Oren Shoham
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 1
-      Info:
-        m_PackageId: com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_IsDirectDependency: 1
-        m_Version: 0.1.8
-        m_Source: 1
-        m_ResolvedPath: C:\Users\Firdous Nizar\BlockDemo\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8
-        m_AssetPath: Packages/com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_Name: com.oshoham.unity-google-cloud-streaming-speech-to-text
-        m_DisplayName: Google Cloud Streaming Speech-to-Text
-        m_Category: 
-        m_Type: 
-        m_Description: A cross-platform Unity plugin that uses the Google Cloud Speech-To-Text
-          API to perform real-time, streaming transcription of microphone input.
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Compatible:
-          - 0.1.0
-          - 0.1.1
-          - 0.1.2
-          - 0.1.3
-          - 0.1.4
-          - 0.1.5
-          - 0.1.6
-          - 0.1.7
-          - 0.1.8
-          m_Recommended: 
-        m_Dependencies: []
-        m_ResolvedDependencies: []
-        m_Keywords:
-        - unity
-        m_Author:
-          m_Name: Oren Shoham
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: npm
-          m_Url: https://registry.npmjs.com
-          m_IsDefault: 0
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 637041751568850000
       IsInstalled: 1
     searchPackages:
     - Name: com.havok.physics
@@ -83388,6 +83388,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -83404,6 +83405,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -83522,6 +83524,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -83538,6 +83541,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -83656,6 +83660,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -83672,6 +83677,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -83790,6 +83796,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -83806,6 +83813,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -83924,6 +83932,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -83940,6 +83949,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -84058,6 +84068,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -84074,6 +84085,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -84192,6 +84204,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -84208,6 +84221,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -84326,6 +84340,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -84342,6 +84357,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -84460,6 +84476,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -84476,6 +84493,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -84594,6 +84612,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -84610,6 +84629,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -84728,6 +84748,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -84744,6 +84765,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -84862,6 +84884,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -84878,6 +84901,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -84996,6 +85020,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -85012,6 +85037,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -85130,6 +85156,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -85146,6 +85173,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -85196,6 +85224,142 @@ MonoBehaviour:
     - Name: com.unity.remote-config
       DisplayName: Remote Config
       _Version: 1.1.0-preview.1
+      Description: "Remote Config is a cloud service that lets you tune and customize
+        your app over the air without requiring an update to your game.  You can use
+        rules to enable or disable features, change the difficulty of your game or
+        run special events to target specific audiences.  Rules control when updates
+        are applied and to whom, while Unity manages delivery of your game content
+        with minimal performance impact. \n\nRemote Config can be configured via the
+        editor or through our public APIs.  Functionality includes: \n- Release new
+        features without deploying code:\n   - Feature flagging\n   - Staged Rollouts\n
+        \  - Kill switch functionality\n   - Start & End Date\n   - Enable & disable
+        rules\n- Personalized real-time segmentation with custom attributes\n   -
+        Custom conditions for applying setting variants\n   - Device, user, game and
+        other arbitrary attributes supporting\n- Reporting\n   - Tracing ID for decorating
+        analytics events"
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.remote-config@1.0.8
+        m_IsDirectDependency: 0
+        m_Version: 1.0.8
+        m_Source: 1
+        m_ResolvedPath: 
+        m_AssetPath: Packages/com.unity.remote-config
+        m_Name: com.unity.remote-config
+        m_DisplayName: Remote Config
+        m_Category: 
+        m_Type: 
+        m_Description: "Remote Config is a cloud service that lets you tune and customize
+          your app over the air without requiring an update to your game.  You can
+          use rules to enable or disable features, change the difficulty of your game
+          or run special events to target specific audiences.  Rules control when
+          updates are applied and to whom, while Unity manages delivery of your game
+          content with minimal performance impact. \n\nRemote Config can be configured
+          via the editor or through our public APIs.  Functionality includes: \n-
+          Release new features without deploying code:\n   - Feature flagging\n   -
+          Staged Rollouts\n   - Kill switch functionality\n   - Start & End Date\n
+          \  - Enable & disable rules\n- Personalized real-time segmentation with
+          custom attributes\n   - Custom conditions for applying setting variants\n
+          \  - Device, user, game and other arbitrary attributes supporting\n- Reporting\n
+          \  - Tracing ID for decorating analytics events"
+        m_Status: 1
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.3.0-preview.4
+          - 0.3.1-preview.2
+          - 0.3.2-preview
+          - 1.0.0-preview
+          - 1.0.4-preview.2
+          - 1.0.5-preview
+          - 1.0.6-preview
+          - 1.0.6
+          - 1.0.7-preview
+          - 1.0.8-preview
+          - 1.0.8-preview.1
+          - 1.0.8
+          - 1.0.9-preview
+          - 1.1.0-preview
+          - 1.1.0-preview.1
+          - 1.1.0-preview.2
+          m_Compatible:
+          - 0.3.0-preview.4
+          - 0.3.1-preview.2
+          - 0.3.2-preview
+          - 1.0.0-preview
+          - 1.0.4-preview.2
+          - 1.0.5-preview
+          - 1.0.6-preview
+          - 1.0.6
+          - 1.0.7-preview
+          - 1.0.8-preview
+          - 1.0.8-preview.1
+          - 1.0.8
+          - 1.0.9-preview
+          - 1.1.0-preview
+          - 1.1.0-preview.1
+          - 1.1.0-preview.2
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - remote
+        - config
+        - configuration
+        - settings
+        - remote settings
+        - remote config
+        - firebase
+        - staged rollouts
+        - feature flagging
+        - roll-out
+        - adapt
+        - tune
+        - tailor
+        - test
+        - experiment
+        - experimentation
+        - app update
+        - taget
+        - targeting
+        - segment
+        - segmentation
+        - segmenting
+        - override
+        - rules
+        - variants
+        - variation
+        - parameter
+        - condtions
+        - conditional
+        - continuous delivery
+        - deploy
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637098627280000000
+      IsInstalled: 0
+    - Name: com.unity.remote-config
+      DisplayName: Remote Config
+      _Version: 1.1.0-preview.2
       Description: "Remote Config is a cloud service that lets you tune and customize
         your app over the air without requiring an update to your game.  You can use
         rules to enable or disable features, change the difficulty of your game or
@@ -85264,6 +85428,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Compatible:
           - 0.3.0-preview.4
           - 0.3.1-preview.2
@@ -85280,6 +85445,7 @@ MonoBehaviour:
           - 1.0.9-preview
           - 1.1.0-preview
           - 1.1.0-preview.1
+          - 1.1.0-preview.2
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -99928,6 +100094,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -99945,6 +100112,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -100176,6 +100344,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -100193,6 +100362,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -100295,6 +100465,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -100312,6 +100483,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -100414,6 +100586,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -100431,6 +100604,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -100533,6 +100707,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -100550,6 +100725,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -100652,6 +100828,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -100669,6 +100846,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -100771,6 +100949,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -100788,6 +100967,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -100890,6 +101070,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -100907,6 +101088,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -101009,6 +101191,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -101026,6 +101209,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -101128,6 +101312,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -101145,6 +101330,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -101247,6 +101433,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -101264,6 +101451,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -101366,6 +101554,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -101383,6 +101572,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -101485,6 +101675,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -101502,6 +101693,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -101604,6 +101796,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -101621,6 +101814,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -101652,6 +101846,127 @@ MonoBehaviour:
     - Name: com.unity.xr.arcore
       DisplayName: ARCore XR Plugin
       _Version: 3.1.0-preview.1
+      Description: 'Provides native Google ARCore integration for use with Unity''s
+        multi-platform XR API.
+
+        =Supported Features=
+
+        -Efficient Background Rendering
+
+        -Horizontal Planes
+
+        -Depth Data
+
+        -Anchors
+
+        -Hit Testing'
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.xr.arcore@3.0.1
+        m_IsDirectDependency: 0
+        m_Version: 3.0.1
+        m_Source: 1
+        m_ResolvedPath: 
+        m_AssetPath: Packages/com.unity.xr.arcore
+        m_Name: com.unity.xr.arcore
+        m_DisplayName: ARCore XR Plugin
+        m_Category: 
+        m_Type: 
+        m_Description: 'Provides native Google ARCore integration for use with Unity''s
+          multi-platform XR API.
+
+          =Supported Features=
+
+          -Efficient Background Rendering
+
+          -Horizontal Planes
+
+          -Depth Data
+
+          -Anchors
+
+          -Hit Testing'
+        m_Status: 1
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.0-preview.24
+          - 2.0.2
+          - 2.1.0-preview.4
+          - 2.1.0-preview.5
+          - 2.1.0
+          - 2.1.1
+          - 2.1.2
+          - 2.2.0-preview.1
+          - 2.2.0-preview.2
+          - 2.2.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.1
+          - 3.1.0-preview.1
+          - 3.1.0-preview.2
+          m_Compatible:
+          - 1.0.0-preview.24
+          - 2.0.2
+          - 2.1.0-preview.4
+          - 2.1.0-preview.5
+          - 2.1.0
+          - 2.1.1
+          - 2.1.2
+          - 2.2.0-preview.1
+          - 2.2.0-preview.2
+          - 2.2.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.1
+          - 3.1.0-preview.1
+          - 3.1.0-preview.2
+          m_Recommended: 2.0.2
+        m_Dependencies:
+        - m_Name: com.unity.xr.arsubsystems
+          m_Version: 3.0.0
+        - m_Name: com.unity.xr.management
+          m_Version: 3.0.4
+        - m_Name: com.unity.modules.androidjni
+          m_Version: 1.0.0
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - arcore
+        - ar
+        - augmented
+        - xr
+        - reality
+        - core
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637109284420000000
+      IsInstalled: 0
+    - Name: com.unity.xr.arcore
+      DisplayName: ARCore XR Plugin
+      _Version: 3.1.0-preview.2
       Description: 'Provides native Google ARCore integration for use with Unity''s
         multi-platform XR API.
 
@@ -101723,6 +102038,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.24
           - 2.0.2
@@ -101740,6 +102056,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -101837,6 +102154,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -101867,6 +102185,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -101962,6 +102281,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -101992,6 +102312,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -102087,6 +102408,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -102117,6 +102439,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -102212,6 +102535,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -102242,6 +102566,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -102337,6 +102662,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -102367,6 +102693,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -102462,6 +102789,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -102492,6 +102820,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -102587,6 +102916,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -102617,6 +102947,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -102712,6 +103043,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -102742,6 +103074,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -102837,6 +103170,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -102867,6 +103201,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -102962,6 +103297,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -102992,6 +103328,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -103087,6 +103424,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -103117,6 +103455,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -103212,6 +103551,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -103242,6 +103582,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -103337,6 +103678,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -103367,6 +103709,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -103588,6 +103931,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -103618,6 +103962,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -103713,6 +104058,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -103743,6 +104089,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -103838,6 +104185,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -103868,6 +104216,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -103963,6 +104312,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -103993,6 +104343,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -104088,6 +104439,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -104118,6 +104470,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -104213,6 +104566,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -104243,6 +104597,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -104338,6 +104693,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -104368,6 +104724,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -104463,6 +104820,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -104493,6 +104851,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -104588,6 +104947,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -104618,6 +104978,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -104713,6 +105074,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -104743,6 +105105,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -104838,6 +105201,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -104868,6 +105232,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -104963,6 +105328,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -104993,6 +105359,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -105088,6 +105455,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -105118,6 +105486,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -105213,6 +105582,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -105243,6 +105613,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -105272,6 +105643,133 @@ MonoBehaviour:
     - Name: com.unity.xr.arfoundation
       DisplayName: AR Foundation
       _Version: 3.1.0-preview.1
+      Description: "A collection of MonoBehaviours and C# utilities for working with
+        AR Subsystems. \n\nIncludes: \n GameObject menu items for creating an AR setup
+        \n MonoBehaviours that control AR session lifecycle and create GameObjects
+        from detected, real-world trackable features \n Scale handling \n Face tracking\n\nSamples
+        available at https://github.com/Unity-Technologies/arfoundation-samples"
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.xr.arfoundation@3.0.1
+        m_IsDirectDependency: 0
+        m_Version: 3.0.1
+        m_Source: 1
+        m_ResolvedPath: 
+        m_AssetPath: Packages/com.unity.xr.arfoundation
+        m_Name: com.unity.xr.arfoundation
+        m_DisplayName: AR Foundation
+        m_Category: 
+        m_Type: 
+        m_Description: "A collection of MonoBehaviours and C# utilities for working
+          with AR Subsystems. \n\nIncludes: \n GameObject menu items for creating
+          an AR setup \n MonoBehaviours that control AR session lifecycle and create
+          GameObjects from detected, real-world trackable features \n Scale handling
+          \n Face tracking\n\nSamples available at https://github.com/Unity-Technologies/arfoundation-samples"
+        m_Status: 1
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.0-preview.12
+          - 1.0.0-preview.13
+          - 1.0.0-preview.14
+          - 1.0.0-preview.17
+          - 1.0.0-preview.18
+          - 1.0.0-preview.19
+          - 1.0.0-preview.20
+          - 1.0.0-preview.22
+          - 1.1.0-preview.6
+          - 1.5.0-preview.2
+          - 1.5.0-preview.5
+          - 1.5.0-preview.6
+          - 1.5.0-preview.7
+          - 2.0.2
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 2.1.1
+          - 2.1.3
+          - 2.1.4
+          - 2.2.0-preview.2
+          - 2.2.0-preview.3
+          - 2.2.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.0-preview.6
+          - 3.0.1
+          - 3.1.0-preview.1
+          - 3.1.0-preview.3
+          m_Compatible:
+          - 1.0.0-preview.12
+          - 1.0.0-preview.13
+          - 1.0.0-preview.14
+          - 1.0.0-preview.17
+          - 1.0.0-preview.18
+          - 1.0.0-preview.19
+          - 1.0.0-preview.20
+          - 1.0.0-preview.22
+          - 1.1.0-preview.6
+          - 1.5.0-preview.2
+          - 1.5.0-preview.5
+          - 1.5.0-preview.6
+          - 1.5.0-preview.7
+          - 2.0.2
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 2.1.1
+          - 2.1.3
+          - 2.1.4
+          - 2.2.0-preview.2
+          - 2.2.0-preview.3
+          - 2.2.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.0-preview.6
+          - 3.0.1
+          - 3.1.0-preview.1
+          - 3.1.0-preview.3
+          m_Recommended: 2.0.2
+        m_Dependencies:
+        - m_Name: com.unity.xr.arsubsystems
+          m_Version: 3.0.0
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - xr
+        - ar
+        - augmented
+        - reality
+        - utility
+        - utilities
+        - foundation
+        - core
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637109284530000000
+      IsInstalled: 0
+    - Name: com.unity.xr.arfoundation
+      DisplayName: AR Foundation
+      _Version: 3.1.0-preview.3
       Description: "A collection of MonoBehaviours and C# utilities for working with
         AR Subsystems. \n\nIncludes: \n GameObject menu items for creating an AR setup
         \n MonoBehaviours that control AR session lifecycle and create GameObjects
@@ -105338,6 +105836,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Compatible:
           - 1.0.0-preview.12
           - 1.0.0-preview.13
@@ -105368,6 +105867,7 @@ MonoBehaviour:
           - 3.0.0-preview.6
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.3
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -105487,6 +105987,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -105515,6 +106016,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -105633,6 +106135,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -105661,6 +106164,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -105779,6 +106283,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -105807,6 +106312,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -105925,6 +106431,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -105953,6 +106460,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -106071,6 +106579,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -106099,6 +106608,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -106217,6 +106727,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -106245,6 +106756,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -106363,6 +106875,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -106391,6 +106904,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -106509,6 +107023,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -106537,6 +107052,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -106655,6 +107171,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -106683,6 +107200,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -106801,6 +107319,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -106829,6 +107348,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -107091,6 +107611,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -107119,6 +107640,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -107237,6 +107759,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -107265,6 +107788,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -107383,6 +107907,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -107411,6 +107936,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -107529,6 +108055,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -107557,6 +108084,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -107675,6 +108203,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -107703,6 +108232,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -107821,6 +108351,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -107849,6 +108380,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -107967,6 +108499,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -107995,6 +108528,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -108113,6 +108647,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -108141,6 +108676,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -108259,6 +108795,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -108287,6 +108824,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -108405,6 +108943,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -108433,6 +108972,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -108551,6 +109091,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -108579,6 +109120,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -108697,6 +109239,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -108725,6 +109268,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -108843,6 +109387,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -108871,6 +109416,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -108989,6 +109535,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -109017,6 +109564,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -109135,6 +109683,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -109163,6 +109712,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -109191,6 +109741,154 @@ MonoBehaviour:
     - Name: com.unity.xr.arkit
       DisplayName: ARKit XR Plugin
       _Version: 3.1.0-preview.1
+      Description: 'Provides native Apple ARKit integration for use with Unity''s
+        multi-platform XR API.
+
+        =Supported Features=
+
+        -Efficient Background Rendering
+
+        -Horizontal Planes
+
+        -Depth Data
+
+        -Reference Points
+
+        -Hit Testing
+
+        -Face Tracking
+
+        -Environment Probes'
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.xr.arkit@3.0.1
+        m_IsDirectDependency: 0
+        m_Version: 3.0.1
+        m_Source: 1
+        m_ResolvedPath: 
+        m_AssetPath: Packages/com.unity.xr.arkit
+        m_Name: com.unity.xr.arkit
+        m_DisplayName: ARKit XR Plugin
+        m_Category: 
+        m_Type: 
+        m_Description: 'Provides native Apple ARKit integration for use with Unity''s
+          multi-platform XR API.
+
+          =Supported Features=
+
+          -Efficient Background Rendering
+
+          -Horizontal Planes
+
+          -Depth Data
+
+          -Reference Points
+
+          -Hit Testing
+
+          -Face Tracking
+
+          -Environment Probes'
+        m_Status: 1
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.0-preview.11
+          - 1.0.0-preview.12
+          - 1.0.0-preview.13
+          - 1.0.0-preview.14
+          - 1.0.0-preview.15
+          - 1.0.0-preview.16
+          - 1.0.0-preview.17
+          - 1.0.0-preview.20
+          - 1.0.0-preview.23
+          - 1.0.0-preview.27
+          - 2.0.1
+          - 2.1.0-preview.3
+          - 2.1.0-preview.5
+          - 2.1.1
+          - 2.1.2
+          - 2.2.0-preview.1
+          - 2.2.0-preview.2
+          - 2.2.0-preview.3
+          - 2.2.0-preview.4
+          - 2.2.0-preview.5
+          - 2.2.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.1
+          - 3.1.0-preview.1
+          - 3.1.0-preview.2
+          m_Compatible:
+          - 1.0.0-preview.11
+          - 1.0.0-preview.12
+          - 1.0.0-preview.13
+          - 1.0.0-preview.14
+          - 1.0.0-preview.15
+          - 1.0.0-preview.16
+          - 1.0.0-preview.17
+          - 1.0.0-preview.20
+          - 1.0.0-preview.23
+          - 1.0.0-preview.27
+          - 2.0.1
+          - 2.1.0-preview.3
+          - 2.1.0-preview.5
+          - 2.1.1
+          - 2.1.2
+          - 2.2.0-preview.1
+          - 2.2.0-preview.2
+          - 2.2.0-preview.3
+          - 2.2.0-preview.4
+          - 2.2.0-preview.5
+          - 2.2.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.1
+          - 3.1.0-preview.1
+          - 3.1.0-preview.2
+          m_Recommended: 2.0.1
+        m_Dependencies:
+        - m_Name: com.unity.xr.arsubsystems
+          m_Version: 3.0.0
+        - m_Name: com.unity.xr.management
+          m_Version: 3.0.4
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - arkit
+        - ar
+        - augmented
+        - xr
+        - reality
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637109284710000000
+      IsInstalled: 0
+    - Name: com.unity.xr.arkit
+      DisplayName: ARKit XR Plugin
+      _Version: 3.1.0-preview.2
       Description: 'Provides native Apple ARKit integration for use with Unity''s
         multi-platform XR API.
 
@@ -109281,6 +109979,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.11
           - 1.0.0-preview.12
@@ -109309,6 +110008,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.xr.arsubsystems
@@ -109386,6 +110086,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -109403,6 +110104,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -109475,6 +110177,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -109492,6 +110195,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -109564,6 +110268,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -109581,6 +110286,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -109653,6 +110359,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -109670,6 +110377,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -109742,6 +110450,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -109759,6 +110468,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -109831,6 +110541,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -109848,6 +110559,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -109920,6 +110632,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -109937,6 +110650,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110009,6 +110723,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -110026,6 +110741,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110098,6 +110814,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -110115,6 +110832,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110187,6 +110905,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -110204,6 +110923,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110276,6 +110996,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -110293,6 +111014,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110365,6 +111087,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -110382,6 +111105,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110454,6 +111178,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -110471,6 +111196,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110543,6 +111269,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -110560,6 +111287,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110632,6 +111360,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -110649,6 +111378,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110672,6 +111402,97 @@ MonoBehaviour:
     - Name: com.unity.xr.arkit-face-tracking
       DisplayName: ARKit Face Tracking
       _Version: 3.1.0-preview.1
+      Description: "Support for face tracking on ARKit.\n\nIncludes support for: \n
+        Face pose tracking \n Blendshapes \n\nNote: Only supported on devices with
+        a forward-facing depth camera, like the iPhone X"
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.xr.arkit-face-tracking@3.0.1
+        m_IsDirectDependency: 0
+        m_Version: 3.0.1
+        m_Source: 1
+        m_ResolvedPath: 
+        m_AssetPath: Packages/com.unity.xr.arkit-face-tracking
+        m_Name: com.unity.xr.arkit-face-tracking
+        m_DisplayName: ARKit Face Tracking
+        m_Category: 
+        m_Type: 
+        m_Description: "Support for face tracking on ARKit.\n\nIncludes support for:
+          \n Face pose tracking \n Blendshapes \n\nNote: Only supported on devices
+          with a forward-facing depth camera, like the iPhone X"
+        m_Status: 1
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.0-preview.4
+          - 1.0.0-preview.6
+          - 1.0.1
+          - 1.0.2
+          - 1.1.0-preview.1
+          - 1.1.0-preview.2
+          - 1.1.0-preview.3
+          - 1.1.0-preview.4
+          - 1.1.0-preview.5
+          - 1.1.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.1
+          - 3.1.0-preview.1
+          - 3.1.0-preview.2
+          m_Compatible:
+          - 1.0.0-preview.4
+          - 1.0.0-preview.6
+          - 1.0.1
+          - 1.0.2
+          - 1.1.0-preview.1
+          - 1.1.0-preview.2
+          - 1.1.0-preview.3
+          - 1.1.0-preview.4
+          - 1.1.0-preview.5
+          - 1.1.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.1
+          - 3.1.0-preview.1
+          - 3.1.0-preview.2
+          m_Recommended: 
+        m_Dependencies:
+        - m_Name: com.unity.xr.arkit
+          m_Version: 3.0.1
+        - m_Name: com.unity.xr.arsubsystems
+          m_Version: 3.0.0
+        m_ResolvedDependencies: []
+        m_Keywords: []
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637109284620000000
+      IsInstalled: 0
+    - Name: com.unity.xr.arkit-face-tracking
+      DisplayName: ARKit Face Tracking
+      _Version: 3.1.0-preview.2
       Description: "Support for face tracking on ARKit.\n\nIncludes support for: \n
         Face pose tracking \n Blendshapes \n\nNote: Only supported on devices with
         a forward-facing depth camera, like the iPhone X"
@@ -110721,6 +111542,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 1.0.0-preview.4
           - 1.0.0-preview.6
@@ -110738,6 +111560,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.1
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 
         m_Dependencies:
         - m_Name: com.unity.xr.arkit
@@ -110890,6 +111713,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -110905,6 +111729,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -110974,6 +111799,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -110989,6 +111815,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111058,6 +111885,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111073,6 +111901,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111142,6 +111971,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111157,6 +111987,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111226,6 +112057,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111241,6 +112073,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111310,6 +112143,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111325,6 +112159,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111394,6 +112229,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111409,6 +112245,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111478,6 +112315,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111493,6 +112331,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111562,6 +112401,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111577,6 +112417,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111646,6 +112487,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111661,6 +112503,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111730,6 +112573,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111745,6 +112589,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111814,6 +112659,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111829,6 +112675,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -111853,6 +112700,92 @@ MonoBehaviour:
     - Name: com.unity.xr.arsubsystems
       DisplayName: AR Subsystems
       _Version: 3.1.0-preview.1
+      Description: Contains definitions for AR Subsystems. This package is a dependency
+        of provider packages as well as AR Foundation
+      Category: 
+      State: 0
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.xr.arsubsystems@3.0.0
+        m_IsDirectDependency: 0
+        m_Version: 3.0.0
+        m_Source: 1
+        m_ResolvedPath: 
+        m_AssetPath: Packages/com.unity.xr.arsubsystems
+        m_Name: com.unity.xr.arsubsystems
+        m_DisplayName: AR Subsystems
+        m_Category: 
+        m_Type: 
+        m_Description: Contains definitions for AR Subsystems. This package is a dependency
+          of provider packages as well as AR Foundation
+        m_Status: 1
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 2.0.2
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0
+          - 2.1.1
+          - 2.2.0-preview.2
+          - 2.2.0-preview.3
+          - 2.2.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.0
+          - 3.1.0-preview.1
+          - 3.1.0-preview.2
+          m_Compatible:
+          - 2.0.2
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0
+          - 2.1.1
+          - 2.2.0-preview.2
+          - 2.2.0-preview.3
+          - 2.2.0-preview.6
+          - 3.0.0-preview.1
+          - 3.0.0-preview.2
+          - 3.0.0-preview.3
+          - 3.0.0-preview.4
+          - 3.0.0
+          - 3.1.0-preview.1
+          - 3.1.0-preview.2
+          m_Recommended: 2.0.2
+        m_Dependencies:
+        - m_Name: com.unity.subsystemregistration
+          m_Version: 1.0.6
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - subsystem
+        - XR
+        - AR
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637109284810000000
+      IsInstalled: 0
+    - Name: com.unity.xr.arsubsystems
+      DisplayName: AR Subsystems
+      _Version: 3.1.0-preview.2
       Description: Contains definitions for AR Subsystems. This package is a dependency
         of provider packages as well as AR Foundation
       Category: 
@@ -111898,6 +112831,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Compatible:
           - 2.0.2
           - 2.1.0-preview.1
@@ -111913,6 +112847,7 @@ MonoBehaviour:
           - 3.0.0-preview.4
           - 3.0.0
           - 3.1.0-preview.1
+          - 3.1.0-preview.2
           m_Recommended: 2.0.2
         m_Dependencies:
         - m_Name: com.unity.subsystemregistration
@@ -117416,8 +118351,8 @@ MonoBehaviour:
         m_HideInEditor: 1
         m_DatePublishedTicks: 636959593270000000
       IsInstalled: 0
-    listPackagesVersion: 38
-    listPackagesOfflineVersion: 37
+    listPackagesVersion: 69
+    listPackagesOfflineVersion: 68
     searchOperationOngoing: 0
     listOperationOngoing: 0
     listOperationOfflineOngoing: 0
@@ -117892,6 +118827,10 @@ MonoBehaviour:
         Expanded: 0
         SeeAllVersions: 0
         Selected: 0
+      - PackageId: newtonsoft.json@https://github.com/k0dep/newtonsoft.json.git
+        Expanded: 0
+        SeeAllVersions: 0
+        Selected: 0
     BuiltInSelection:
       States:
       - PackageId: com.unity.modules.ui@1.0.0
@@ -117949,10 +118888,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2461
-    y: 81
-    width: 352
-    height: 1319
+    x: 991.2
+    y: 126.4
+    width: 432
+    height: 738
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -117987,10 +118926,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1905
-    y: 942
-    width: 554
-    height: 458
+    x: 334.4
+    y: 611.2
+    width: 655
+    height: 253
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -118005,20 +118944,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Firdous Nizar\BlockDemo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 50340000
-    m_LastClickedID: 13392
-    m_ExpandedIDs: 00000000c42d0000ec33000000ca9a3bffffff7f
+    m_SelectedIDs: d62d0000
+    m_LastClickedID: 11734
+    m_ExpandedIDs: 00000000d62d0000b630000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -118046,7 +118985,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000d62d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -118123,10 +119062,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1537
-    y: 81
-    width: 924
-    height: 842
+    x: 0
+    y: 20
+    width: 1086
+    height: 463
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
   m_MaximizeOnPlay: 0
@@ -118139,10 +119078,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -462
-    m_HBaseRangeMax: 462
-    m_VBaseRangeMin: -412.5
-    m_VBaseRangeMax: 412.5
+    m_HBaseRangeMin: -435.2
+    m_HBaseRangeMax: 435.2
+    m_VBaseRangeMin: -179.6
+    m_VBaseRangeMax: 179.6
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -118160,25 +119099,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 924
-      height: 825
+      width: 1088
+      height: 449
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 462, y: 412.5}
+    m_Translation: {x: 544, y: 224.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -462
-      y: -412.5
-      width: 924
-      height: 825
+      x: -544
+      y: -224.5
+      width: 1088
+      height: 449
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 924, y: 842}
+  m_LastWindowPixelSize: {x: 1360, y: 582.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -118204,10 +119143,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1536
-    y: 73
-    width: 1641
-    height: 848
+    x: 7.2000003
+    y: 80.8
+    width: 1192
+    height: 468
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: d222de8c37b0ce0439d1c49ec269d577
@@ -118219,9 +119158,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 0.04890049, y: -0.08535128, z: -0.27140898}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 0.04890049, y: -0.08535128, z: -0.27140898}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -118242,21 +119181,21 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
-      speed: 2
-      m_Value: 1
-    zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 6.607396
     speed: 2
-    m_Value: 10
+    m_Value: 6.607396
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -118303,17 +119242,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1537
-    y: 942
-    width: 368
-    height: 458
+    x: -96.8
+    y: 611.2
+    width: 431
+    height: 253
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 76350000
       m_LastClickedID: 0
-      m_ExpandedIDs: 16e6ffffc6e8ffff3efaffffa8faffff6cfbffff6c320000
+      m_ExpandedIDs: 72fbffffee320000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

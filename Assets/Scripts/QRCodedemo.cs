@@ -15,6 +15,8 @@ public class QRCodedemo : MonoBehaviour
     [SerializeField] private int width = 256;
     [SerializeField] private int height = 256;
 
+    static int i = 0;
+
     public RawImage cRawImage;
     public Texture2D tex;
     //public Button button;
@@ -40,6 +42,26 @@ public class QRCodedemo : MonoBehaviour
         // Setup the RawImage
         cRawImage.texture = tex;
         cRawImage.rectTransform.sizeDelta = new Vector2(tex.width, tex.height);
+    }
+
+    public void SaveTex()
+    {
+        string filepath = Application.dataPath + "/QRLog";
+        byte[] imageBytes = tex.EncodeToPNG();
+        bool filecheck = false;
+
+        while (!filecheck)
+        { 
+            if (!File.Exists(filepath + "/QR Code - " + i + ".png"))
+            {
+                File.WriteAllBytes(filepath + "/QR Code - " + i + ".png", imageBytes);
+                filecheck = true;
+            }
+
+            i++;
+        }
+        
+        
     }
 
     private Texture2D GenerateBarcode(string data, BarcodeFormat format, int width, int height)

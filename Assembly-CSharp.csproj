@@ -62,7 +62,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\GenerateQRDemo.cs" />
     <Compile Include="Assets\Scripts\QRCodedemo.cs" />
     <Compile Include="Assets\Scripts\SavWav.cs" />
     <Compile Include="Assets\Scripts\SendtoGoogle.cs" />

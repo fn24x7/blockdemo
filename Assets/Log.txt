@@ -118,3 +118,87 @@ Speech time: 12/29/2019 8:18:52 PM
 Speech text: Your Speech
 Speech time: 12/29/2019 8:19:02 PM
 Speech text: yay
+Speech time: 12/29/2019 9:51:15 PM
+Speech text: Your Speech
+Speech time: 12/29/2019 9:51:27 PM
+Speech text: hello
+Speech time: 12/29/2019 9:51:29 PM
+Speech text: how are you
+Speech time: 12/29/2019 9:51:32 PM
+Speech text: what is your name
+Speech time: 12/29/2019 9:51:39 PM
+Speech text: Dora the Canadian research partnership
+Speech time: 1/5/2020 8:28:12 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 8:30:29 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 8:31:30 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 8:31:41 PM
+Speech text: hello
+Speech time: 1/5/2020 8:31:44 PM
+Speech text: Huggy buggy
+Speech time: 1/5/2020 8:31:50 PM
+Speech text: I love you
+Speech time: 1/5/2020 8:57:14 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 8:57:29 PM
+Speech text: hello
+Speech time: 1/5/2020 8:57:35 PM
+Speech text: this is awesome
+Speech time: 1/5/2020 8:57:42 PM
+Speech text: enabling communication
+Speech time: 1/5/2020 8:58:13 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 8:58:22 PM
+Speech text: misses Flaco's
+Speech time: 1/5/2020 9:08:56 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 9:09:07 PM
+Speech text: hey penguin
+Speech time: 1/5/2020 9:09:13 PM
+Speech text: Happy Feet
+Speech time: 1/5/2020 9:10:21 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 9:10:39 PM
+Speech text: this is a test run
+Speech time: 1/5/2020 9:11:31 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 9:11:41 PM
+Speech text: this is hello
+Speech time: 1/5/2020 9:11:47 PM
+Speech text: happy penguin
+Speech time: 1/5/2020 9:13:26 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 9:13:36 PM
+Speech text: hi
+Speech time: 1/5/2020 9:13:39 PM
+Speech text: this is me
+Speech time: 1/5/2020 9:13:48 PM
+Speech text: I know we're not rather be
+Speech time: 1/5/2020 9:32:31 PM
+Speech text: Your Speech
+Speech time: 1/5/2020 9:32:37 PM
+Speech text: hello
+Speech time: 1/5/2020 9:32:40 PM
+Speech text: what's up
+Speech time: 1/6/2020 11:21:53 AM
+Speech text: Your Speech
+Speech time: 1/6/2020 11:22:00 AM
+Speech text: hello
+Speech time: 1/6/2020 11:22:03 AM
+Speech text: how are you
+Speech time: 1/6/2020 11:22:07 AM
+Speech text: one piece
+Speech time: 1/6/2020 12:03:44 PM
+Speech text: Your Speech
+Speech time: 1/6/2020 2:34:31 PM
+Speech text: Your Speech
+Speech time: 1/6/2020 2:36:09 PM
+Speech text: Your Speech
+Speech time: 1/6/2020 2:41:17 PM
+Speech text: Your Speech
+Speech time: 1/6/2020 3:09:59 PM
+Speech text: Your Speech
+Speech time: 1/6/2020 3:10:15 PM
+Speech text: hello
